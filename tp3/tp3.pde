@@ -1,4 +1,4 @@
-//aca va el link al video
+//https://www.youtube.com/watch?v=UZw9ZKdF77o&list=RDO_rv7gAeOUk&index=4&ab_channel=LesLuthiers
 
 boolean usarColor = false;  // inicialmente no usa el color azul
 PImage imagen;
